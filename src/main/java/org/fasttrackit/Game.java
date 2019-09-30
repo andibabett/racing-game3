@@ -54,6 +54,8 @@ public class Game {
 
     }
 
+
+
     private double getAccelerationSpeedFromUser() {
         System.out.println("Please enter acceleration speed:");
         Scanner scanner = new Scanner(System.in);
