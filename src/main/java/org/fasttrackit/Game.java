@@ -41,9 +41,6 @@ public class Game {
                 }
             }
         }
-
-
-
     }
 
         // for-each or enhanced for loop
@@ -51,10 +48,7 @@ public class Game {
             double speed = getAccelerationSpeedFromUser();
             vehicle.accelerate(speed, 1);
         }
-
     }
-
-
 
     private double getAccelerationSpeedFromUser() {
         System.out.println("Please enter acceleration speed:");
