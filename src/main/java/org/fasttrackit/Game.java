@@ -131,8 +131,5 @@ public class Game {
                         " - Length: " + tracks[i].getLength() + " km.");
             }
         }
-
     }
-
-
 }
